@@ -167,6 +167,8 @@ class Automovil:
             conexion.cerrarConexion()
 
 
+
+
     def incrementar_disponibilidad(self):
         conexion = Conexiones()
         conexion.abrirConexion()
