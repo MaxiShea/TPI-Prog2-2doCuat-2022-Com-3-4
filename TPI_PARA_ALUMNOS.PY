@@ -94,7 +94,7 @@ class ProgramaPrincipal:
             elif nro == 0:
                 break    
             else:
-                print("Error, Número ingresado inválido  ")
+                print("")
 
     
     def crearTablas(self):
